@@ -145,7 +145,7 @@ export const HeroSection = () => {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                <a href="/Mubashir_Awan_CV.pdf" download>
+                <a href="/Mubashir_Awan_CV .pdf" download>
                 <Button
                   variant="outline"
                   size="lg"
@@ -235,3 +235,4 @@ export const HeroSection = () => {
     </section>
   );
 };
+
